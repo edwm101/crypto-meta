@@ -1,20 +1,12 @@
 {
-    "name": "Wall Street Pepe",
-    "symbol": "$WEPE",
-    "description": "Wall Street Pepe ($WEPE) is a meme-based cryptocurrency inspired by internet culture, specifically targeting the 'degen' crypto audience. It features a decentralized exchange (DEX) launch, meme-driven branding, and staking rewards. Designed to appeal to fans of meme coins and the 'Pepe' character, the project emphasizes community and humor in its approach.",
-    "image": "https://raw.githubusercontent.com/edwm101/crypto-meta/refs/heads/main/wepe-mascot.gif",
-    "external_url": "https://wallstreetpepe.com/",
-    "attributes": [
-      {
-        "trait_type": "Category",
-        "value": "Meme Coin"
-      },
-      {
-        "trait_type": "Utility",
-        "value": "DEX Launch, Staking Rewards"
-      }
-    ],
-    "seller_fee_basis_points": 500,
+  "name": "Wall Street Pepe",
+  "symbol": "$WEPE",
+  "description": "A meme token on Solana",
+  "image": "https://raw.githubusercontent.com/edwm101/crypto-meta/refs/heads/main/wepe-mascot.gif",
+  "external_url": "https://wallstreetpepe.com/",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
     "creators": [
       {
         "address": "GknR6Bbs5FNeXMSNmdWkRsM7QZsZ1Qzb3PsXyaYXn72b",
@@ -22,4 +14,4 @@
       }
     ]
   }
-  
+}
